@@ -19,4 +19,4 @@ This repository contains the login page for AWAK Technology. The page is built u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akshitsz/awak-technology-login.git
+   git clone https://github.com/akshitsz/login-page.git
